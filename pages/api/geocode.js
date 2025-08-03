@@ -1,4 +1,3 @@
-import axios from 'axios';
 
 // Mock geocoding - in a real app, you'd use PositionStack API
 const mockGeocoding = {

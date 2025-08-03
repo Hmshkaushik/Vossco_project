@@ -1,4 +1,4 @@
-import axios from 'axios';
+
 
 // Mock data for different cities
 const mockData = {
