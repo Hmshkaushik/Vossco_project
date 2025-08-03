@@ -5,6 +5,7 @@ export default function Home() {
     <div>
       <h1>✅ Deployed Successfully!</h1>
       <p><Link href="/city/bangalore/">Go to Bangalore</Link></p>
+      <p><Link href="/city/hyderabad/">Go to Hyderabad</Link></p>
     </div>
   );
 }
